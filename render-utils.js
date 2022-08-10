@@ -50,3 +50,5 @@ export function renderDogDetail(dog) {
 
     return div;
 }
+
+//minor change
